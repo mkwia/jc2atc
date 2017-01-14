@@ -1,0 +1,9 @@
+Non-Storm:
+Min Speed: 4kts
+Max Speed: 9kts
+Change Frequency: 60s
+
+Storm:
+Min Speed: 6kts
+Max Speed: 15kts
+Change Frequency: 5s

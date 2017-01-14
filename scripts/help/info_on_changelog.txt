@@ -1,0 +1,5 @@
+Info on how to use the changelog:
+
+	One entry per line
+	Use | between text to split into columns
+	Use | at the end of each line

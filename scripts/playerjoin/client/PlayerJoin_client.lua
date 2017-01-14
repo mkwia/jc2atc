@@ -1,0 +1,1 @@
+Network:Subscribe("popup", function(args) Game:ShowPopup(args.text, args.icon) end)

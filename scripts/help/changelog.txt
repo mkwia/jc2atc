@@ -1,0 +1,32 @@
+26/11/15|Addition|Created changelog|
+|Change|Wingsuit changed, barrel roll key is now X|
+|Change/Fix|Clock and weather systems updated|
+|Addition|/staff command for online staff|
+|Fix|Updated ATC render sequence|
+27/11/15|Addition|GTA style vehicle air control system (arrow keys)|
+|Fix|Blocked player achievement broadcasts until bug is fixed|
+|Change|Used modelids to calculate fuel values|
+|Fix|Changelog no longer duplicates when modules reload|
+28/11/15|Addition|Added /atcmessages command to block incoming ATC messages|
+|Addition|Chat tag for when you stand in a certain area of PIA|
+|Addition|Announcer|
+|Fix|Air Control|
+|Addition|Donator SQL system|
+|Addition|Private messaging system|
+29/11/15|Change|Wingsuit deactivates later when opening parachute|
+01/12/15|Addition|Added cruise control for cars|
+03/12/15|Change|Update to Rules & MOTD|
+06/12/15|Addition|Benefits to steam group members|
+|Fix|C4 is no longer usable in passive mode|
+08/12/15|Fix|Quapaw no longer spawns underground|
+|Change|Changed ATC render sequence|
+11/12/15|Addition|Added AirTraffic NPCs|
+|Addition|Created turbulence, affected by: plane's yaw, altitude, location (sea, arctic)|
+17/12/15|Removal|C4 due to massive server lag creation|
+21/12/15|Addition|Quick requests for ATC|
+|Change|Vehicle removal method for ATC|
+|Change|Updated warn|
+28/12/15|Addition|Added Money Drops|
+|Fix|Changed ATC runway lines and label rendering to use a runway data temp table|
+03/01/16|Message| Happy new year! :)|
+|Change|Added a new and improved chat filter, using over 50% caps will block a message, using emojis like "^^" wont be blocked|

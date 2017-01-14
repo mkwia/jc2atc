@@ -1,0 +1,8 @@
+{
+  "info": {
+    "author": "Dom2364",
+    "author_url": "",
+    "description": "Makes a smoke trail when you press F.\nSmoke type can be changed by typing /smoke in chat",
+    "name": "smoke"
+  }
+}
